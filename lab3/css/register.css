@@ -1,0 +1,77 @@
+nav {
+    font-size: 20px;
+    background: white;
+    padding-left: 50px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    letter-spacing: 0px;
+}
+
+input:focus {
+    background: #dfd
+}
+
+body {
+    background-image: linear-gradient(#faeeee, #eeeefa);
+}
+
+h1 {
+    font-size: 24px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 50px;
+}
+
+section {
+    background: #fefefe;
+    margin: 20px 100px;
+}
+
+input {
+    padding: 0.5em 0.5em 0.5em 10px;
+    margin: 0.5em 0;
+    width: 35%;
+    background-color: #ffffff;
+    border: #56707f solid 1px;
+    border-radius: 3px;
+    color: #000000
+}
+
+p {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 100px;
+    line-height: 30px;
+}
+
+.checkbox {
+     padding-left: 0;
+     margin: 0.5em 0;
+     width: 6%;
+ }
+
+#refresh {
+    width: 5%;
+    padding: 0.5em;
+    margin: 0 0 0 10px;
+}
+
+textarea {
+    width: 60%;
+    height: 150px;
+    margin-left: 100px;
+    background-color: whitesmoke;
+    line-height: 20px;
+}
+
+.agree {
+    width: 5%;
+    margin: 1em 1em 1em 100px;
+}
+
+#register {
+    padding: 0.5em;
+    margin-left: 0px;
+    width: 15%;
+    background-color: #5f7;
+}
